@@ -217,4 +217,6 @@
     </tbody>
 </table>
 
-![](/assets/logo.png)
+![](/assets/light.png)
+![](/assets/dark.png)
+>REMS成员合影
