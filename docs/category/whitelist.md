@@ -217,6 +217,6 @@
     </tbody>
 </table>
 
-![](/assets/light.png)
-![](/assets/dark.png)
+![](/assets/members/light.png)
+![](/assets/members/dark.png)
 >REMS成员合影

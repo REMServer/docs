@@ -4,7 +4,7 @@ module.exports = {
   description: "一个国内不知名的红石技术向生存服",
   base: "/",
   head: [
-    ["link",{ rel: "icon",href: "/assets/logo.png" }]
+    ["link",{ rel: "icon",href: "/assets/logo/darklogo.png" }]
   ],
   markdown: {
     lineNumbers: false,
