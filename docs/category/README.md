@@ -51,5 +51,5 @@
 
 ## 参观
 
-REMS 是 [Bridgers](https://space.bilibili.com/456836621) 成员服。
-![](/assets/info.png)
+REMS 是 [BRIDGERS](https://space.bilibili.com/456836621) 成员服。
+[![](/assets/info.png)](https://www.bilibili.com/read/cv7022972)
