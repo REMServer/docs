@@ -22,7 +22,7 @@ footer: Copyright REMS 2020. Based on Vuepress. By Nofated
 
 # 观看我们的宣传视频
 
-[![](assets/cover.png)](https://www.bilibili.com/video/BV1Ki4y1x7yg)
+<iframe src="//player.bilibili.com/player.html?aid=540942275&cid=200993755&page=1&danmaku=0&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ::: tip
 稿件提交时间为2020-06-11，服务器已经有了很大的变化，最新的情况请以服务器官方日志为准。
