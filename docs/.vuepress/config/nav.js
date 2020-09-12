@@ -13,4 +13,8 @@ module.exports = [
     text: "画廊",
     link: "/images/"
   },
+  {
+    text: "服务器官号",
+    link: "https://space.bilibili.com/551186831"
+  },
 ];
