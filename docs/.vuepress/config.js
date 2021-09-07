@@ -1,5 +1,4 @@
 module.exports = {
-  theme:"antdocs",
   title: "Redstone Experimental Server",
   description: "一个国内不知名的红石技术向生存服",
   base: "/",
