@@ -8,10 +8,9 @@
     "build": "vuepress build docs"
   },
   "keywords": [],
-  "author": "Nofated",
+  "author": "Nofated095",
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.25"
-  },
-  "creator": ">=2.0.0",
+  }
 }
