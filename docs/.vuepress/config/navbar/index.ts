@@ -1,5 +1,4 @@
 import type { NavbarConfig } from '@vuepress/theme-default'
-import { version } from '../meta'
 
 export const zh: NavbarConfig = [
   {
@@ -117,20 +116,28 @@ export const zh: NavbarConfig = [
     ],
   },
   {
-    text: `v${version}`,
+    text: `Bilibili Live`,
     children: [
       {
-        text: '更新日志',
+        text: 'REMS-Official',
         link:
-          'https://github.com/vuepress/vuepress-next/blob/main/CHANGELOG.md',
+          'https://live.bilibili.com/22475275',
       },
       {
-        text: 'v1.x',
-        link: 'https://v1.vuepress.vuejs.org/zh/',
+        text: 'Runaway_Fancy',
+        link: 'https://live.bilibili.com/4546951',
       },
       {
-        text: 'v0.x',
-        link: 'https://v0.vuepress.vuejs.org/zh/',
+        text: '噜啦啦噜凉凉',
+        link: 'https://live.bilibili.com/3259196',
+      },
+      {
+        text: 'Enoty',
+        link: 'https://live.bilibili.com/4226956',
+      },
+      {
+        text: '八云-紫月',
+        link: 'https://live.bilibili.com/434054',
       },
     ],
   },
