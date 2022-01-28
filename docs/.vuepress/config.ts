@@ -11,7 +11,11 @@ export default defineUserConfig<DefaultThemeOptions>({
   theme: '@vuepress/theme-default',
   themeConfig: {
     logo: 'https://pic.rmb.bdstatic.com/bjh/2d44fc3e673283cbbd6f8f97974c0340.png',
-    head: [['link', { rel: 'icon', href: 'https://pic.rmb.bdstatic.com/bjh/c0f70aee81771615db8599a0fb93cc3e.png' }]],
+    head: [
+      ['link', { rel: 'icon', href: 'https://pic.rmb.bdstatic.com/bjh/c0f70aee81771615db8599a0fb93cc3e.png' }],
+      ['meta', { name: 'msapplication-TileColor', content: '#24ABFF' }],
+      ['meta', { name: 'theme-color', content: '#24ABFF' }],
+    ],
     navbar: [
       // NavbarItem
       {
