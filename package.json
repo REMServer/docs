@@ -4,8 +4,8 @@
   "description": "The origin Vuepress Files of the website 'remsmc.github.io' and 'rems.gitee.io'",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "keywords": [
     "REMS",
