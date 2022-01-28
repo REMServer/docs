@@ -7,7 +7,15 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
-  "keywords": [],
+  "keywords": [
+    "REMS",
+    "REMSMC",
+    "Minecraft",
+    "Minecraft Server",
+    "Minecraft 服务器",
+    "Minecraft 生电",
+    "Minecraft 红石服务器"
+  ],
   "author": "Redstone Experimental Minecraft Server Community",
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
