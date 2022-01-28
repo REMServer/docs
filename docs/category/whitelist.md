@@ -2,7 +2,7 @@
 
 **排列无规律**
 
-<table>
+<!-- table>
   <tbody>
     <tr>
       <td align=center>
@@ -240,7 +240,7 @@
       </td>
       </tr>
     </tbody>
-</table>
+</table -->
 
 ![](https://pic.rmb.bdstatic.com/bjh/d7e6b6911b220ef5249c4c5bf7910c76.png)
 >REMS成员合影
