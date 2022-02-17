@@ -24,15 +24,19 @@ footer: MIT Licensed | Copyright © 2020-2022 present REMS Community
 
 # 观看我们的宣传视频
 
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://video-direct-link.vercel.app/bili.mp4?aid=540942275&bvid=BV1Ki4y1x7yg&cid=200993755" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
 <!-- iframe src="https://video-direct-link.vercel.app/bili.mp4?aid=540942275&bvid=BV1Ki4y1x7yg&cid=200993755" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe -->
 
-<d-player 
+<!-- d-player 
     :options="{
         video: {
             url: 'https://video-direct-link.vercel.app/bili.mp4?aid=540942275&bvid=BV1Ki4y1x7yg&cid=200993755'
         }
     }"
-/>
+/ -->
 
 ::: tip
 稿件提交时间为2020-06-11，服务器已经有了很大的变化，最新的情况请以服务器官方日志为准。
