@@ -6,7 +6,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: 'zh-CN',
   title: 'Redstone Experimental Server',
   description: '一个国内不知名的红石技术向生存服',
-  plugins: ['dplayer'],
+  plugins: ['@vuepress-something/vuepress-plugin-dplayer'],
   // 主题和它的配置
   theme: '@vuepress/theme-default',
   themeConfig: {
