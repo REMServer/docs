@@ -24,6 +24,14 @@ export default defineUserConfig<DefaultThemeOptions>({
         text: 'Category',
         children: ['/category/README.md', '/category/projects.md', '/category/whitelist.md'],
       },
+      {
+        text: '哔哩哔哩',
+        link: 'https://space.bilibili.com/551186831',
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/REMSMC',
+      },
     ],
     sidebar: {
       '/category/': [
