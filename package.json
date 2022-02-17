@@ -19,7 +19,6 @@
   "author": "Redstone Experimental Minecraft Server Community",
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.35",
-    "@vuepress-something/vuepress-plugin-dplayer": "1.0.2"
+    "vuepress": "^2.0.0-beta.35"
   }
 }
