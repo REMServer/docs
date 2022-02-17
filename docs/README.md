@@ -25,11 +25,9 @@ footer: MIT Licensed | Copyright © 2020-2022 present REMS Community
 # 观看我们的宣传视频
 
 <!-- iframe src="https://video-direct-link.vercel.app/bili.mp4?aid=540942275&bvid=BV1Ki4y1x7yg&cid=200993755" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe -->
-<d-player 
-    :options="{
-        video: {
-        url: 'https://video-direct-link.vercel.app/bili.mp4?aid=540942275&bvid=BV1Ki4y1x7yg&cid=200993755',
-    },
+<d-player
+    video="{
+           url: 'https://video-direct-link.vercel.app/bili.mp4?aid=540942275&bvid=BV1Ki4y1x7yg&cid=200993755',
     }"
 />
 
