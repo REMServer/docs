@@ -4,7 +4,7 @@ title: Home
 heroImage: "https://pic.rmb.bdstatic.com/bjh/2d44fc3e673283cbbd6f8f97974c0340.png"
 actions:
   - text: 探索 →
-    link: "/category/"
+    link: "/gettoknow.md"
     type: primary
 features:
 - title: 技术
