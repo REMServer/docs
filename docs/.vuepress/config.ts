@@ -37,7 +37,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       '/category/': [
         {
           text: '概览',
-          children: ['/category/README.md', '/category/projects.md', '/category/whitelist.md'],
+          children: ['/category/projects.md', '/category/whitelist.md'],
         },
       ],
     },
