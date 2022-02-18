@@ -14,12 +14,14 @@ export default defineUserConfig<DefaultThemeOptions>({
       ['link', { rel: 'icon', href: 'https://pic.rmb.bdstatic.com/bjh/c0f70aee81771615db8599a0fb93cc3e.png' }],
     ],
     navbar: [
-      // NavbarItem
       {
         text: '主页',
         link: '/',
       },
-      // NavbarGroup
+      {
+        text: '初识',
+        link: '/gettoknow.html',
+      },
       {
         text: '概览',
         children: ['/category/README.md', '/category/projects.md', '/category/whitelist.md'],
