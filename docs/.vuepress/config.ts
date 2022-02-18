@@ -16,12 +16,12 @@ export default defineUserConfig<DefaultThemeOptions>({
     navbar: [
       // NavbarItem
       {
-        text: 'Home',
+        text: '主页',
         link: '/',
       },
       // NavbarGroup
       {
-        text: 'Category',
+        text: '概览',
         children: ['/category/README.md', '/category/projects.md', '/category/whitelist.md'],
       },
       {
