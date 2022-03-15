@@ -6,7 +6,6 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: 'zh-CN',
   title: 'Redstone Experimental Server',
   description: '一个国内不知名的红石技术向生存服',
-
   // 主题和它的配置
   theme: '@vuepress/theme-default',
   themeConfig: {
@@ -15,22 +14,32 @@ export default defineUserConfig<DefaultThemeOptions>({
       ['link', { rel: 'icon', href: 'https://pic.rmb.bdstatic.com/bjh/c0f70aee81771615db8599a0fb93cc3e.png' }],
     ],
     navbar: [
-      // NavbarItem
       {
-        text: 'Home',
+        text: '主页',
         link: '/',
       },
-      // NavbarGroup
       {
-        text: 'Category',
-        children: ['/category/README.md', '/category/projects.md', '/category/whitelist.md'],
+        text: '初识',
+        link: '/gettoknow.html',
+      },
+      {
+        text: '概览',
+        children: ['/category/projects.md', '/category/whitelist.md', '/category/README.md'],
+      },
+      {
+        text: '哔哩哔哩',
+        link: 'https://space.bilibili.com/551186831',
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/REMSMC',
       },
     ],
     sidebar: {
       '/category/': [
         {
           text: '概览',
-          children: ['/category/README.md', '/category/projects.md', '/category/whitelist.md'],
+          children: ['/category/projects.md', '/category/whitelist.md', '/category/README.md'],
         },
       ],
     },
