@@ -1,15 +1,20 @@
-# 初识
+---
+id: intro
+title: Redstone Experimental Server
+sidebar_label: 初识
+slug: /
+---
 
 ![](https://pic.rmb.bdstatic.com/bjh/aafa02262002f9838084327fcfe09b54.png)
 
 **Redstone Experimental Server**，简称 **REMS**，最初成立于2020年2月9日，是大型红石技术向不知名生存服务器之一。
 
-<div style="position: relative; padding: 30% 45%;">
+<!-- div style="position: relative; padding: 30% 45%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://video-direct-link.vercel.app/bili.mp4?aid=540942275&bvid=BV1Ki4y1x7yg&cid=200993755" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+</div -->
 
-::: tip
-此视频为服务器在 `2020-06-11` 前的进度
+:::tip
+也许你可以浏览一下我们的宣传视频......[➡️传送门](https://www.bilibili.com/video/BV1Ki4y1x7yg)
 :::
 
 ![](https://pic.rmb.bdstatic.com/bjh/a2935e7cd5c898068364cbdad4a94304.png)
@@ -29,3 +34,4 @@
 除了可以在服务器肝各种项目外，REMS 也会定期举办一些活动。比如我们经常会举办 UHC 挑战，REMS 是 [BRIDGERS](https://space.bilibili.com/456836621) 成员服，有时会参观其它成员服或被带领其他成员服成员来参观的活动。
 
 [![](https://pic.rmb.bdstatic.com/bjh/0b83d21b3f5e871bddc8853ec597479b.png)](https://www.bilibili.com/read/cv7022972)
+
