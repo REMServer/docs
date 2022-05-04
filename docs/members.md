@@ -59,7 +59,7 @@ sidebar_label: 成员
     class="avatar__photo-link avatar__photo avatar__photo--lg">
     <img
       alt="LINHUA_24k"
-      src="-" />
+      src="https://pic.rmb.bdstatic.com/bjh/c4072371e783cddde32beae4ead19a3b.png" />
   </a>
   <a
     class="avatar__photo-link avatar__photo avatar__photo--lg">
@@ -143,13 +143,13 @@ sidebar_label: 成员
     class="avatar__photo-link avatar__photo avatar__photo--lg">
     <img
       alt="yaoshun"
-      src="-" />
+      src="https://pic.rmb.bdstatic.com/bjh/6981c355cde3ee5f549179fd70048fe9.png" />
   </a>
   <a
     class="avatar__photo-link avatar__photo avatar__photo--lg">
     <img
       alt="Nofated"
-      src="-" />
+      src="https://pic.rmb.bdstatic.com/bjh/9e7dddbdc80c1d95421af4f7df9c8e81.png" />
   </a>
   <a
     class="avatar__photo-link avatar__photo avatar__photo--lg">
@@ -161,7 +161,7 @@ sidebar_label: 成员
     class="avatar__photo-link avatar__photo avatar__photo--lg">
     <img
       alt="XC_Corleone"
-      src="-" />
+      src="https://pic.rmb.bdstatic.com/bjh/7e92a59b032f22ff685ce2d73f9bab8c.png" />
   </a>
 </div>
 <div class="avatar">
@@ -178,5 +178,3 @@ sidebar_label: 成员
       src="https://pic.rmb.bdstatic.com/bjh/cae4cce19c5c095588b20085919d5ca8.png" />
   </a>
 </div>
-
-👷‍♀️施工ing...
