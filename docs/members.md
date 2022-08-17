@@ -6,7 +6,7 @@ sidebar_label: 成员
 
 |Runaway_Fancy|zhihan233|
 |:-:|:-:|
-|<img height='48' width='48' src='https://pic.rmb.bdstatic.com/bjh/27e913cfaa03be7480448a512280875c.png'>|<img height='48' width='48' src='https://pic.rmb.bdstatic.com/bjh/21acd33573825e824c0b077f14a7cabf.png'>|
+|<img height='48' width='48' src='https://pic.rmb.bdstatic.com/bjh/27e913cfaa03be7480448a512280875c.png' />|<img height='48' width='48' src='https://pic.rmb.bdstatic.com/bjh/21acd33573825e824c0b077f14a7cabf.png'/>|
 <div class="avatar">
   <a
     class="avatar__photo-link avatar__photo avatar__photo--lg">
