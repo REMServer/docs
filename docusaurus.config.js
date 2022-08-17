@@ -95,7 +95,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/REMSMC',
+                href: 'https://github.com/REMServer',
               },
             ],
           },
