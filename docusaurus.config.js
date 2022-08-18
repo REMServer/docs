@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Redstone Experimental Server',
   tagline: '一个国内不知名的红石技术向生存服',
-  url: 'https://rems.vercel.app',
+  url: 'https://rems.9595095.xyz',
   baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
@@ -64,7 +64,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/REMSMC',
+            href: 'https://github.com/REMServer',
             label: 'GitHub',
             position: 'right',
           },
@@ -95,7 +95,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/REMSMC',
+                href: 'https://github.com/REMServer',
               },
             ],
           },
