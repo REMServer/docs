@@ -1,6 +1,6 @@
-<img width="100" align="left" src="https://pic.rmb.bdstatic.com/bjh/c0f70aee81771615db8599a0fb93cc3e.png">
+<img width="100" align="left" src="https://pic.rmb.bdstatic.com/bjh/2d44fc3e673283cbbd6f8f97974c0340.png">
 
-# REMServer Docs
+## REMServer Docs
 
 The docs of [REMServer](https://rems.vercel.app)
 
