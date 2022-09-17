@@ -1,7 +1,7 @@
 ---
 id: intro
 title: Redstone Experimental Server
-sidebar_label: 初识
+sidebar_label: 总览
 slug: /
 ---
 
